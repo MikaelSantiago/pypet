@@ -1,0 +1,23 @@
+.width80{
+    width: 80vw; 
+ }
+ 
+ .tabela{
+     width: 100%;
+     margin-top: 20px;
+ }
+ 
+ .tabela-linha{
+     background-color: #e8e7e7;
+     padding: 90px;
+ }
+ 
+#coluna {
+    width: 20%;
+}
+
+.tabela th, .tabela td {
+    padding: 20px;
+}
+
+
